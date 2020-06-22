@@ -39,4 +39,5 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w&list=LL&index=14&t=0s
 
 
 Alex Friedman Podcast with OpenAI Coufounder :
+
 https://www.youtube.com/watch?v=13CZPWmke6A&list=LL&index=17&t=2s
