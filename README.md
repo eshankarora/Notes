@@ -65,6 +65,8 @@ SIREN: Implicit Neural Representations with Periodic Activation Functions (Paper
 https://www.youtube.com/watch?v=Q5g3p9Zwjrk&list=LLVQXIQ_L4nKtC6oe7u-RXcQ&index=5&t=2062s
 
 
+6 JUL , 2020
+
 LSTMs and GRUs :
 
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
